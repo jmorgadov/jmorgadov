@@ -10,14 +10,14 @@
 	</a>
 </h3>
 
-- 🏫 Computer science student at @matcom
+- 🏫 Computer Science student at [@matcom](https://github.com/matcom)
 - ✍️  Currently working in my graduation thesis
 - 🐍 Python enthusiast
 - ❤️ Love all kind of stuff, math, music, philosophy, physics, art, ...
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,python,c,linux,bash,cs,neovim,unity,flutter" />
+        <img src="https://skillicons.dev/icons?i=git,python,c,linux,bash,neovim,cs,unity,flutter" />
     </a>
 </p>
 
