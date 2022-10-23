@@ -17,12 +17,8 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,python,c,linux,bash,neovim,cs,unity,flutter" />
+        <img src="https://skillicons.dev/icons?i=git,python,linux,bash,neovim,flutter,dart,cs,unity" />
     </a>
-</p>
-
-<p align="center">
-
 </p>
 
 ---
