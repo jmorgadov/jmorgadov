@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,python,linux,bash,neovim,flutter,dart,cs,unity" />
+        <img src="https://skillicons.dev/icons?i=python,linux,bash,neovim,flutter,dart,cs,unity" />
     </a>
 </p>
 
