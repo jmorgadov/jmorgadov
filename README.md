@@ -10,9 +10,8 @@
 	</a>
 </h3>
 
-- 🏫 Computer Science student at [@matcom](https://github.com/matcom)
-- ✍️  Currently working in my graduation thesis
-- 🐍 Python enthusiast
+- 💻 Computer Science graduated at [@matcom](https://github.com/matcom)
+- 🐍 Python enthusiast... currently learning rust 🦀 
 - ❤️ Love all kind of stuff, math, music, philosophy, physics, art, ...
 
 <p align="center">
