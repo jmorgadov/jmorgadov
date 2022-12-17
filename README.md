@@ -10,7 +10,7 @@
 	</a>
 </h3>
 
-- 💻 Computer Science graduated at [@matcom](https://github.com/matcom)
+- 💻 Computer Scientist graduated at [@matcom](https://github.com/matcom)
 - 🐍 Python enthusiast... currently learning rust 🦀 
 - ❤️ Love all kind of stuff, math, music, philosophy, physics, art, ...
 
